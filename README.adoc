@@ -1,0 +1,8 @@
+= Plantilla para AKKA
+
+[source,mermaid]
+----
+flowchart TD
+    A["Dependencias"]
+    A-->B[AKKA]
+----
